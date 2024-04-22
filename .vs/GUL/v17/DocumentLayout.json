@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\GUL\\GUL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\message\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\message\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\message\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\message\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\message\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\message\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\message\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\message\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\builder\\fluentresultsstatusbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\builder\\fluentresultsstatusbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\gul.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\gul.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\gul.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\gul.abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\assembly\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\assembly\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\fluentresultsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\fluentresultsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\utils\\internalservererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\utils\\internalservererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\resultsto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\resultsto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\valueresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\valueresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\formats\\multilineformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\formats\\multilineformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\extension\\messageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\extension\\messageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\extension\\fluentresultsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\extension\\fluentresultsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\ifluentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\ifluentresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\fluentresults\\fluentresultsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\fluentresults\\fluentresultsstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\assembly\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\assembly\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|d:\\workspace\\gul\\gul\\gul.shared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4BCDB5-7D5F-4480-90B8-606D887EE84D}|GUL.Shared\\GUL.Shared.csproj|solutionrelative:gul.shared\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|d:\\workspace\\gul\\gul\\gul.abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A93294-8E0B-411C-9C9F-168B83F95BBE}|GUL.Abstraction\\GUL.Abstraction.csproj|solutionrelative:gul.abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C806A05-3311-4B19-B891-F7A77CC200A7}|GUL\\GUL.csproj|d:\\workspace\\gul\\gul\\gul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C806A05-3311-4B19-B891-F7A77CC200A7}|GUL\\GUL.csproj|solutionrelative:gul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Message\\IQueryHandler.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\IQueryHandler.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Message\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:04:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\IQuery.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Message\\IQuery.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\IQuery.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Message\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T07:00:55.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Message\\ICommandHandler.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\ICommandHandler.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Message\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:54:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\ICommand.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Message\\ICommand.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Message\\ICommand.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Message\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:18:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUL.Abstraction",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\GUL.Abstraction.csproj",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\GUL.Abstraction.csproj",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\GUL.Abstraction.csproj",
+              "RelativeToolTip": "GUL.Abstraction\\GUL.Abstraction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T04:48:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUL.Shared",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\GUL.Shared.csproj",
+              "RelativeDocumentMoniker": "GUL.Shared\\GUL.Shared.csproj",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\GUL.Shared.csproj",
+              "RelativeToolTip": "GUL.Shared\\GUL.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T05:47:26.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FluentResultsStatusBuilder.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Builder\\FluentResultsStatusBuilder.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\Builder\\FluentResultsStatusBuilder.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Builder\\FluentResultsStatusBuilder.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\Builder\\FluentResultsStatusBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:46:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FluentResultsExtension.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\FluentResultsExtension.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\FluentResultsExtension.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\FluentResultsExtension.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\FluentResultsExtension.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwGkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:03:49.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InternalServerError.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Utils\\InternalServerError.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\Utils\\InternalServerError.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Utils\\InternalServerError.cs",
+              "RelativeToolTip": "GUL.Shared\\Utils\\InternalServerError.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:11:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultsTo.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\ResultsTo.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\ResultsTo.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\ResultsTo.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\ResultsTo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:02:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValueResults.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\ValueResults.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\ValueResults.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\ValueResults.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\ValueResults.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:00:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MultiLineFormatter.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Formats\\MultiLineFormatter.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\Formats\\MultiLineFormatter.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Formats\\MultiLineFormatter.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\Formats\\MultiLineFormatter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:00:25.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageExtension.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Extension\\MessageExtension.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\Extension\\MessageExtension.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Extension\\MessageExtension.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\Extension\\MessageExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:59:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FluentResultsExtension.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Extension\\FluentResultsExtension.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\Extension\\FluentResultsExtension.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\Extension\\FluentResultsExtension.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\Extension\\FluentResultsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:59:24.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FluentResultsStatus.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\FluentResultsStatus.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\FluentResultsStatus.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\FluentResultsStatus.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\FluentResultsStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:52:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Assembly\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Assembly\\AssemblyReference.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Assembly\\AssemblyReference.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Assembly\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:48:00.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFluentResults.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\IFluentResults.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\FluentResults\\IFluentResults.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\FluentResults\\IFluentResults.cs",
+              "RelativeToolTip": "GUL.Shared\\FluentResults\\IFluentResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:47:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Assembly\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\Assembly\\AssemblyReference.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Assembly\\AssemblyReference.cs",
+              "RelativeToolTip": "GUL.Shared\\Assembly\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:39:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Program.cs",
+              "RelativeDocumentMoniker": "GUL.Shared\\Program.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Shared\\Program.cs",
+              "RelativeToolTip": "GUL.Shared\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:39:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "GUL.Abstraction\\Program.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL.Abstraction\\Program.cs",
+              "RelativeToolTip": "GUL.Abstraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:36:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\GUL\\GUL\\GUL\\Program.cs",
+              "RelativeDocumentMoniker": "GUL\\Program.cs",
+              "ToolTip": "D:\\Workspace\\GUL\\GUL\\GUL\\Program.cs",
+              "RelativeToolTip": "GUL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:27:29.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
